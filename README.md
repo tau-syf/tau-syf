@@ -16,4 +16,4 @@ I’m passionate about learning new things, improving my skills, and turning ide
 
 > “Small progress every day adds up to big results.”
 
-Thanks for stopping by! ✨
+Thanks for stopping by! 
