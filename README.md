@@ -10,7 +10,7 @@ I’m passionate about learning new things, improving my skills, and turning ide
 - 📫 Reach me: mohdtauseef0510@gmail.com
 
 ## Skills & Tools
-- **Languages:** [Python, JavaScript, HTML, CSS, etc.]
+- **Languages:** Python, JavaScript, HTML, CSS, Java, C
 - **Tools:** Git, GitHub, VS Code
 - **Currently exploring:** New technologies, creative ideas, and ways to improve every day
 
